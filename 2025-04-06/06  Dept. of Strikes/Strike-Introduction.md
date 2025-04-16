@@ -1,0 +1,11 @@
+# Welcome to 10-man groups! 
+You've learned how to play your character and have gotten quite good at it. Now you're ready for the harder challenges. Unlike dungeons and fractals, strikes require you to have 10 people to a party. However, this does not mean you can sit back and let your party handle everything. With greater numbers comes greater responsibility. More people means more mechanics, more damage, and more enemy health. If you look away for a second, you could find your character dead the next. So hold on to your keyboard and get ready to roll.
+## Different Strikes
+```There are 13 different Strike missions total. The first 7 from the Icebrood Saga are accessible from the Eye of the North. The next 4 from End of Dragons are accessible from Arborstone. The last 2 are from Secrets of the Obscure accessible from The Wizard's Tower. If you complete 5 of the 7 Icebrood Saga strike missions each week, you can use your blue prophet crystals to open a chest in Eye of the North for bonus rewards that week. You can also use your prophet crystals to by ascended gear with the best stats in the game. 
+
+The "easy three" you might hear people refer to are the three easiest/fastest strike missions: Shiverpeaks Pass, Voice and Claw of the Fallen, and Fraenir of Jormag. These are normally farmed daily by pug groups on lfg since there is little organization needed to complete them.
+
+The "fast five" are the same as the easy three but they include the two hardest strike missions: Whisper of Jormag and Boneskinner. These are harder to complete and require good organization from each squad member, but you can finish each one quickly if you don't get stuck.
+```
+Those that have been apart of Strike groups. The university wants to hear from you! If you so incline, please fill out [this survey](https://forms.gle/t36beXLxaZxfEfUE6) so we can better our content and provide the upmost training and satisfaction to our members. Your answers can remain anonymous or you have the choice to leave your name.
+## You must have at least one of the strike roles access these channels! See ⁠[NA Notifications](https://discord.com/channels/446550730640195586/999669786315341855/1164947926494220308) or [EU Notifications](https://discord.com/channels/446550730640195586/999707511529689199/1164948996821884979) to assign yourself the roles.

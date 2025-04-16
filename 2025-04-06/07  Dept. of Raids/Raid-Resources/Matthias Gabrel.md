@@ -1,0 +1,1 @@
+https://hardstuck.gg/gw2/guides/w2-salvation-pass/matthias-gabrel/

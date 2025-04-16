@@ -1,0 +1,1 @@
+https://wiki.guildwars2.com/wiki/Weekly_Strike_Mission:_Fraenir_of_Jormag#Walkthrough

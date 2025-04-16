@@ -1,0 +1,1 @@
+https://wiki.guildwars2.com/wiki/Strike_Mission:_Temple_of_Febe

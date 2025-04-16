@@ -1,0 +1,1 @@
+https://hardstuck.gg/gw2/guides/w3-stronghold-of-the-faithful/escort/

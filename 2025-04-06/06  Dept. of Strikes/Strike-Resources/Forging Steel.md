@@ -1,0 +1,2 @@
+While this is technically a strike mission, it is not very popular because of the long duration and low rewards. It's often considered the first episode in the *Visions of the Past* story rather than a strike mission. 
+https://wiki.guildwars2.com/wiki/Forging_Steel#Walkthrough

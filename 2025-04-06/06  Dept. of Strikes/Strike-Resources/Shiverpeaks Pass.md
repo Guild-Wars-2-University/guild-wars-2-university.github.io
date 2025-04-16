@@ -1,0 +1,1 @@
+https://wiki.guildwars2.com/wiki/Strike_Mission:_Shiverpeaks_Pass#Walkthrough

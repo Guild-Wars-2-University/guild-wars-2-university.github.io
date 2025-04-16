@@ -1,1 +1,2 @@
-# Guild Wars 2 Universit: Resources
+# Guild Wars 2 University: Resource Archives
+

@@ -1,0 +1,1 @@
+https://hardstuck.gg/gw2/guides/w5-hall-of-chains/soulless-horror/

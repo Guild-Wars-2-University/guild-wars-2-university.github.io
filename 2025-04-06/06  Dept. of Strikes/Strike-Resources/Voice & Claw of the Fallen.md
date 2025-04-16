@@ -1,0 +1,1 @@
+https://wiki.guildwars2.com/wiki/Weekly_Strike_Mission:_Voice_of_the_Fallen_and_Claw_of_the_Fallen#Walkthrough

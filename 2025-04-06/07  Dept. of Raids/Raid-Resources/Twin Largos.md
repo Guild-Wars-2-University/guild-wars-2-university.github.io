@@ -1,0 +1,1 @@
+Second part of this guide https://hardstuck.gg/gw2/guides/w6-mythwright-gambit/twin-largos/
