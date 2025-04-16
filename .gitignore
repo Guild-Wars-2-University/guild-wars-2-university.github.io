@@ -1,0 +1,14 @@
+.DS_Store
+.vs/
+
+docs/
+dist/
+deno.lock
+
+*.draft*
+*.notes*
+
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/snippets
