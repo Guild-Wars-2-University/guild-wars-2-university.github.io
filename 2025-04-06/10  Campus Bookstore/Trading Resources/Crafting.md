@@ -1,0 +1,1 @@
+Crafting items to turn a profit is often difficult due to the nature of the trading post, but not impossible. Abree has created a comprehensive guide to turning a profit by crafting. https://www.youtube.com/watch?v=4IXcWc3rWm8
