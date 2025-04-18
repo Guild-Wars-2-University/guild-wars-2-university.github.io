@@ -1,0 +1,5 @@
+Loot tracking is a great way to figure out how much gold and how many materials you’re accumulating while playing Guild Wars 2. You don’t NEED to track your loot to amass a lot of gold, but it certainly is helpful in figuring out how to prioritize different activities. To help with loot tracking, we have third party websites and tools that do the annoying stuff for you. In this video, we look at 2 great options for loot tracking in Guild Wars 2. GW2Efficiency offers an easy option that’s adequate for superficial tracking and satisfying your curiosities. DRF offers a high-quality option for both loot tracking AND data collection, but will require you to spend a little time up front to set it up. 
+
+**For players that really want to get into farming or drop research, I recommend getting DRF. For a lot of players that are new to the game, GW2Efficiency is perfectly adequate.**
+
+https://youtu.be/TD0i6ymdo7E

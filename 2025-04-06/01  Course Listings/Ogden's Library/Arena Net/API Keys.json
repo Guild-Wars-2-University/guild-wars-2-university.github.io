@@ -1,0 +1,101 @@
+[
+  {
+    "type": 0,
+    "content": "Some of you may have noticed that your Arena Net account has an API key feature: https://account.arena.net/applications \nThis enable third party applications to read the status of your account. It is 100% safe, there is no chance that people will be able to hack into your account from this. There is a website that uses these API keys to show you everything about your account and even ranks it relative to other players who use the website. If you ever want to browse your achievements or see what the best players on the server have accomplished, this is just what you want: https://gw2efficiency.com/",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://account.arena.net/applications",
+        "title": "ArenaNet",
+        "content_scan_version": 1
+      },
+      {
+        "type": "link",
+        "url": "https://gw2efficiency.com/",
+        "title": "gw2efficiency",
+        "description": "Your helpful companion for everything Guild Wars 2 related",
+        "color": 11429209,
+        "content_scan_version": 1
+      }
+    ],
+    "timestamp": "2022-08-18T23:44:39.487000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1009971120516108478",
+    "channel_id": "1009971120516108478",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "**__How to create a GW2 API key__**\n1️⃣ Go to https://account.arena.net/applications, Log in, and click the New Key button\n\n2️⃣ Once you click on New Key, you’ll be given options to what information your API key will show when used. I recommend checking all the boxes, so you can just use the same API key everywhere. Once you’ve done that, you can give this API any name you like at the top and click CREATE API KEY at the bottom.\n\n3️⃣ Once you’ve created your key, you’ll be redirected back to the previous window with your new API key ready to use. You can see the information the API key contains. To copy your API key for use on this Discord (or anywhere else), click on the papers icon.\n\nFeel free to ask for help in <#1009164086182944939> if you get stuck.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-10-05T11:53:38.235000+00:00",
+    "edited_timestamp": "2022-10-05T11:54:14.435000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1027186803804999702",
+    "channel_id": "1009971120516108478",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

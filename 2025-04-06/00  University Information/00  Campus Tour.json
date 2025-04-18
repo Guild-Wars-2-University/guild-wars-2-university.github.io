@@ -1,0 +1,101 @@
+[
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "Infraction Report",
+        "description": "If you notice someone breaking any of these rules, please report the issue so we can address it. Simply click on the button below and provide evidence of the infraction in the opened thread.",
+        "color": 15158332,
+        "content_scan_version": 0
+      }
+    ],
+    "timestamp": "2024-01-20T19:12:44.805000+00:00",
+    "edited_timestamp": "2024-01-20T19:20:56.712000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "report",
+            "style": 1,
+            "label": "Report Event",
+            "emoji": {
+              "name": "\u26d4"
+            }
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1198344381892153434",
+    "channel_id": "735984236124831755",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "```md\n1. Respect: Treat every student and player with respect and integrity.``````md\n2. Inclusion: Racism, sexism, or any other discrimination/exclusivity will never be tolerated. Abstain from discussing sensitive topics such as politics, religion, etc.``````md\n3. Integrity: Avoid manipulating and profiteering. Anything against ArenaNet/Guild Wars 2 Terms of Service is prohibited.``````md\n4. Humility: No self-promotion except by graduate rank and above, or if approved by staff, and not to exceed 10% of your posts.``````md\n5. Responsibility: Use channels for their intended use. See their description or #\ud83e\uddedcampus-tour  channel for reference.```\n```md\n- Please avoid sending Friend Requests or Direct Messages to server members without getting their permission first. \n  - Staff may contact students for moderation purposes and/or performance monitoring.\n  - Students may contact staff for legitimate requests that don't warrant a ticket or publicly posting.\n```\n\n## Disrespecting one or multiple of these rules can result in various outcomes, from being warned to automatically banned. The Provosts decisions are final.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2024-01-20T18:42:35.477000+00:00",
+    "edited_timestamp": "2025-02-13T03:48:27.888000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1198336793020477521",
+    "channel_id": "735984236124831755",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "type": 0,
+    "content": "There are a lot of abbreviations for things in this game. It can be hard to keep track of them all. Don't fear, the wiki is here. They keep a compressive list of the most common abbreviations you'll see in chat and what they mean: https://wiki.guildwars2.com/wiki/Abbreviations",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-08-18T23:54:06.148000+00:00",
+    "edited_timestamp": "2022-08-18T23:54:54.014000+00:00",
+    "flags": 4,
+    "components": [],
+    "id": "1009973497264623676",
+    "channel_id": "1009973497264623676",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Here is a list of the most common abbreviations:\n```HoT - Heart of Thorns (First major expansion released in 2015)\nPoF - Path of Fire (Second major expansion released in 2017)\nEoD - End of Dragons (Third major expansion released in 2022)\nLWS or LS - Living World Season 1-5 (The minor expansions released in between the major ones) Sometimes the Icebrood Saga is referred to as LWS5```\n```PvE - Player vs Environment (Open World, Dungeons, Fractals, Strikes, and Raids)\nPvP or sPvP - Structured Player vs Player (Conquest, Murderball, Stronghold, Team Deathmatch, and Automated Tournaments)\nWvW - World vs World (Borderlands, Eternal Battergrounds, Edge of the Mists, and Obsidian Sanctum)\nPvX - Player vs Anything (PvE, PvP, and WvW combined)```\n```DPS - Damage Per Second (representing the average amount of damage you are dealing every second in combat)\nCondi - Condition (Any debuff that deals damage over time)\nAoE - Area of Effect (a skill that effect all targets in an area instead of a single target)\nAR - Agony Resistance (A stat which lowers the amount of damage you take from the agony condition)```\n```HB - Healbrand (guardian firebrand focused on healing)\nQB - Quickbrand (guardian firebrand focused on applying quickness)\nAlac - Alacrity (Revenant Renegade or Mesmer Mirage focused on applying alacrity)\nBS - Banner Slave (Warrior Berserker that puts down banners)\nHS - Heal Scourge (Necromancer Scourge that applies barrier to allies)\npDPS - Power DPS (Any class the focuses on dealing damage with Power, Precision, and Ferocity stats)\ncDPS - Condi DPS (Any class the focuses on dealing damage with Conditional Damage and Expertise stats```",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-08-18T23:55:11.472000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1009973771253321769",
+    "channel_id": "1009973497264623676",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "⠀\n**__WvW Jargon__**\nHave you ever joined WvW just to see what it was like and it seemed like people were speaking an entirely different language? Well then I have just the thing for you! Version 1.0 of the complete WvW-English dictionary! Updates will be posted as requested or when someone has a really good idea.\nhttps://docs.google.com/document/d/1lqKrh0F6-e0ufxQz7r90uaeVpKJDa5RuspLV7BHeEVA/edit?usp=sharing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "link",
+        "url": "https://docs.google.com/document/d/1lqKrh0F6-e0ufxQz7r90uaeVpKJDa5RuspLV7BHeEVA/edit?usp=sharing",
+        "title": "Intro to WvW Jargon",
+        "description": "SCOUTING AND REPORTING: The most useful scouting calls contain all the information a group of players needs to decide how they respond. This includes:  Which server the enemies are from (you can call Red/Blue/Green if you don’t care to type the server). A rough estimate of the number of enemies, ...",
+        "provider": {
+          "name": "Google Docs"
+        },
+        "thumbnail": {
+          "url": "https://lh4.googleusercontent.com/KimDLc2gji_gUiFKu6mDtv0rd_Tc3bf0EJZft-3aoAvwRXmLWPYDnIipJkiQtypf3vi_m8I2ys8vOg=w1200-h630-p",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/WSTda0GWzaqVoP-V84do0Y9heE0O59xGcwI2OnvdR64/https/lh4.googleusercontent.com/KimDLc2gji_gUiFKu6mDtv0rd_Tc3bf0EJZft-3aoAvwRXmLWPYDnIipJkiQtypf3vi_m8I2ys8vOg%3Dw1200-h630-p",
+          "width": 1200,
+          "height": 630,
+          "flags": 0
+        }
+      }
+    ],
+    "timestamp": "2022-08-18T23:55:21.972000+00:00",
+    "edited_timestamp": "2022-08-18T23:55:54.586000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1009973815293526016",
+    "channel_id": "1009973497264623676",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "Whether you are new to the gaming world or a hard veteran, you've probably heard or seen the word ''META'' a lot. For GW2 this word is used mainly for events and team composition/builds. \n\n> ''In the world of gaming, meta is used in two ways. Meta can be used as an acronym for “most effective tactics available,” and calling something “meta” means that it's an effective way to achieve the goal of the game, whether it's to beat other players or beat the game itself'' *https://www.grammarly.com/blog/meta-meaning/#:~:text=In%20the%20world%20of%20gaming,or%20beat%20the%20game%20itself*\n\nWhen we are using the term meta for different type of events, we are talking about the way those events will be led as the goal with be to do them in the most effective way, to do the ''properly''.\n\nAs for builds and team/squad compositions, it is used to describe a strategy that will put the odds in our favor in order to clear the content that we are heading to.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "article",
+        "url": "https://www.grammarly.com/blog/meta-meaning/",
+        "title": "What Does Meta- Mean?",
+        "description": "Meta is a word which, like so many other things, we have the ancient Greeks to thank for. When they used it, meta meant “beyond,”…",
+        "color": 1426330,
+        "provider": {
+          "name": "What Does"
+        },
+        "thumbnail": {
+          "url": "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2017/01/meta.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/JThsekpAF6XKViCB9bxnd3XVrVYyxQ9fuVUl9rBEaFU/https/contenthub-static.grammarly.com/blog/wp-content/uploads/2017/01/meta.jpg",
+          "width": 1520,
+          "height": 800,
+          "flags": 0
+        }
+      }
+    ],
+    "timestamp": "2022-08-19T00:05:52.300000+00:00",
+    "edited_timestamp": "2022-08-19T00:07:55.097000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1009976459080765510",
+    "channel_id": "1009973497264623676",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  }
+]

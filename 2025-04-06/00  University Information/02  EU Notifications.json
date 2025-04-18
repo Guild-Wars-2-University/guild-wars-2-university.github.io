@@ -1,0 +1,469 @@
+[
+  {
+    "type": 0,
+    "content": "## Player Versus Player\n```yaml\n1-5 player vs player content\nRecommended for level 2+```Only for the most confident people who can stand on their own against any foe. Prove yourself by going up against the best of the best in a battle to the death.\nSee https://discord.com/channels/446550730640195586/771894889372712971 for more details.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-20T15:32:12.847000+00:00",
+    "edited_timestamp": "2025-04-18T13:35:33.829000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "eu_pvp-845100307120783371",
+            "style": 1,
+            "label": "EU PvP"
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1164949199402569890",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "## World Versus World\n```yaml\n1-50 player vs player content\nRecommended for level 80```WvW is very different from PvE. You need to be experienced in fighting against other players while also good at working together in a group. WvW is also the most graphically intense gamemode, so you may need to lower your graphic settings.\n- <@&772184719286599781>: lessons on how to survive group fights in WvW. \n- <@&1006203805085479073>: Notifications for WvW groups running (Must either be in the GWU guild and have it selected as WvW team, or be in another guild from the same team).\nSee https://discord.com/channels/446550730640195586/771894823074398209 for more details.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-20T15:31:58.570000+00:00",
+    "edited_timestamp": "2025-04-18T13:35:39.896000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "wvw_lesson-772184719286599781",
+            "style": 1,
+            "label": "WvW Lessons"
+          },
+          {
+            "type": 2,
+            "id": 3,
+            "custom_id": "eu_wvw-1006203805085479073",
+            "style": 1,
+            "label": "EU WvW with GWU"
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1164949139520503880",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "## Raids\n```yaml\n10 player instance content\nRecommended for level 80```Raids are endgame PvE content from Heart of Thorns, Path of Fire, and Janthir Wilds\n- <@&845100161902575628>: Brand new to raids! Must have a general understanding of your class, what role you are filling, what your CC skills are, and appropriate gear (exotic or higher) for your role. \n- <@&845100170151985163>: You have trained on or completed raid bosses. Progression runs contain minimal explanations. Clear runs contain no explanations. Please only sign up for content you meet the requirements of.\nSee https://discord.com/channels/446550730640195586/771100743368179752 for more details.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-20T15:31:39.716000+00:00",
+    "edited_timestamp": "2025-04-18T13:35:47.019000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "eu_raid-845100161902575628",
+            "style": 1,
+            "label": "EU Raid Training"
+          },
+          {
+            "type": 2,
+            "id": 3,
+            "custom_id": "eu_raids-845100170151985163",
+            "style": 1,
+            "label": "EU Raids"
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1164949060441096242",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "## Strikes\n```yaml\n10 player instance content\nRecommended for level 80```Strikes are endgame PvE content from Icebrood Saga, End of Dragons, and Secrets of the Obscure.\n- <@&845100145918083092>: Good training for raids.\n- <@&1052315367831253002>: You have completed strike missions on normal and are looking for training, progression, or clears of the CMs. Please only sign up for content you meet the requirements of.\nSee https://discord.com/channels/446550730640195586/961003506012155926 for more details.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-20T15:31:24.548000+00:00",
+    "edited_timestamp": "2025-04-18T13:35:57.947000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "eu_strike-845100145918083092",
+            "style": 1,
+            "label": "EU Strikes"
+          },
+          {
+            "type": 2,
+            "id": 3,
+            "custom_id": "eu_strike_cm-1052315367831253002",
+            "style": 1,
+            "label": "EU Strike CM"
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1164948996821884979",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "## Fractals\n```yaml\n5 player instance content\nRecommended for level 71+```Fractals are great for learning how to play instanced group content and earning high quality gear.\n- <@&845098867552550922>: essentially dungeons. No agony resistance (AR) required. \n- <@&845099034464354345>: similar to T1 but harder. 50+ AR required. \n- <@&845099039853903892>: much harder version of T2. 100+ AR required.\n- <@&845099302569115648>: very hard version of T3. 150+ AR required. \n- <@&845099541929263134>: You have completed fractals on normal and are looking for training, progression, or clears of the CMs. Please only sign up for content you meet the requirements of.\nSee https://discord.com/channels/446550730640195586/771110507758354442 for more details.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-20T15:31:09.059000+00:00",
+    "edited_timestamp": "2025-04-17T14:06:39.206000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 3,
+            "id": 2,
+            "custom_id": "RTSelect-eu_fractals-446550730640195586",
+            "placeholder": "Select EU fractal roles",
+            "min_values": 1,
+            "max_values": 5,
+            "options": [
+              {
+                "label": "T1 Fractals",
+                "value": "RTSelect-eu_t1-845098867552550922",
+                "description": "Fractal level 1-25, 0 AR"
+              },
+              {
+                "label": "T2 Fractals",
+                "value": "RTSelect-eu_t2-845099034464354345",
+                "description": "Fractal level 26-50, 50+ AR"
+              },
+              {
+                "label": "T3 Fractals",
+                "value": "RTSelect-eu_t3-845099039853903892",
+                "description": "Fractal level 51-75, 100+ AR"
+              },
+              {
+                "label": "T4 Fractals",
+                "value": "RTSelect-eu_t4-845099302569115648",
+                "description": "Fractal level 76-100, 150+ AR"
+              },
+              {
+                "label": "CM Fractals",
+                "value": "RTSelect-eu_frac-845099541929263134",
+                "description": "T4, 150+ AR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1164948931856306257",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "## Dungeons\n```yaml\n5 player instance content\nRecommended for level 30-80```Great for experience and leveling up. Unlock a new dungeon every 10 levels. 5 levels after unlocking a new dungeon story, you also unlock 3 dungeon explore paths.\nSee https://discord.com/channels/446550730640195586/838607655609040906 for more details.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-20T15:30:51.174000+00:00",
+    "edited_timestamp": "2025-04-18T13:36:08.746000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "eu_dungeon-845100134614564915",
+            "style": 1,
+            "label": "EU Dungeons"
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1164948856841175160",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "## Open World\n```yaml\n1-50 player open content\nContent for all levels``` Open World encompasses everything open world and story related content.  \n- <@&845100314079264799>  : Social events and trains\n  - Guild Missions, fishing parties, etc.\n  - Achievement Farming - Going for some specific achievements in story instances/open world.\n  - Map/World Completion - 100% completion on a specific map. Completing every heart, viewing every vista, finding every point of interest, earning every hero challenge.\n  - Hero Point Trains - Farm the expansion maps for all the hero challenges to help unlock your elite specializations. \n  - Bounty Train - Farm the Path of Fire expansion maps for bounties. \n- <@&1319648281600589905>  : (level 80) Group up in some expansion maps with many players to tackle big event chains called meta events. \nSee https://discord.com/channels/446550730640195586/1138843634729500753 for more details.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-10-20T15:30:31.652000+00:00",
+    "edited_timestamp": "2025-04-18T13:36:22.431000+00:00",
+    "flags": 0,
+    "components": [
+      {
+        "type": 1,
+        "id": 1,
+        "components": [
+          {
+            "type": 2,
+            "id": 2,
+            "custom_id": "eu_train-845100314079264799",
+            "style": 1,
+            "label": "EU PvE Trains"
+          },
+          {
+            "type": 2,
+            "id": 3,
+            "custom_id": "eu_meta-1319648281600589905",
+            "style": 1,
+            "label": "EU PvE Meta"
+          }
+        ]
+      }
+    ],
+    "resolved": {
+      "users": {},
+      "members": {},
+      "channels": {},
+      "roles": {}
+    },
+    "id": "1164948774959976509",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "868102182128472075",
+      "username": "Scruffy",
+      "avatar": "5f60b2a1ef85fc1eb30d6bd99bbcc787",
+      "discriminator": "4245",
+      "public_flags": 0,
+      "flags": 0,
+      "bot": true,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "# Content Roles Self-Assignment\n### Each of these buttons will give you specific roles that allow you to access a different part of the discord for that content. It will also give you notifications whenever people are looking to form groups for that content. \nSimply click the buttons bellow each message to sign-up for that content. You can click them again to remove yourself from that content if you wish.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-07-21T16:00:57.214000+00:00",
+    "edited_timestamp": "2023-10-20T15:32:36.669000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "999707565208379502",
+    "channel_id": "999707511529689199",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "type": 0,
+    "content": "Moment of truth. The default settings suck. The beginning of this guide will walk you through the best way to optimize your settings in order to have the easiest time playing. They also recommend good keybind settings, but that is largely dependent on what you are comfortable with. https://www.youtube.com/watch?v=vDjEts07ekg",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vDjEts07ekg",
+        "title": "GW2 - BEST KEYBINDS & SETTINGS FOR BEGINNERS",
+        "description": "Support me on Patreon: https://www.patreon.com/noodica\nFollow me on Twitch: https://www.twitch.tv/noodyvert\nJoin my discord: https://discord.gg/m3QDUBp\nFollow me on Twitter: https://twitter.com/NoodyVERT\nFollow me on Instagram: http://instagram.com/noodygw2\n\nHere is a beginners tutorial/guide to my settings and keybinds in Guild Wars 2.\n\nTIME ST...",
+        "color": 16711680,
+        "author": {
+          "name": "Noody",
+          "url": "https://www.youtube.com/channel/UC-QH304zT3qOQ2PKrFmngSQ"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/vDjEts07ekg/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/F6vd3XQciJa0lR0FzHDUnz7z3kA9qOL-oCedW0c86ec/https/i.ytimg.com/vi/vDjEts07ekg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/vDjEts07ekg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "content_scan_version": 1
+      }
+    ],
+    "timestamp": "2022-08-18T23:45:41.529000+00:00",
+    "edited_timestamp": null,
+    "flags": 1024,
+    "components": [],
+    "id": "1009971380739117176",
+    "channel_id": "1009971380739117176",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "One thing I would like to add to this is that you can also enable action camera to make it easier to look around. This is not recommended for PvP and WvW, but it's good to know your options. Here is a guide to that: https://www.youtube.com/watch?v=-Y2czD6BREw",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=-Y2czD6BREw",
+        "title": "Guild Wars 2 - Action Camera Guide - Overview, Advanced Settings, T...",
+        "description": "✘ Action Camera - The best feature added to the game if you ask me. :-) ✘\n\nIf you wish to support my work, please use one of the following links:\n➡️ MY SUPPORT PAGE: https://www.tekkitsworkshop.net/donate\n➡️ DONATE VIA PATREON: https://www.patreon.com/TekkitsWorkshop\n➡️ DONATE VIA PAYPAL: https://paypal.me/TekkitWorkshop\n\n➡️ WEBPAGE: http://www....",
+        "color": 16711680,
+        "author": {
+          "name": "Tekkit's Workshop",
+          "url": "https://www.youtube.com/channel/UC0Feu7AF3QW-WvqRAgs1ycw"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/-Y2czD6BREw/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/whCWkssQpKkJy59PDKM_BWbaZNEYPBTktI3oWfEkKJw/https/i.ytimg.com/vi/-Y2czD6BREw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/-Y2czD6BREw",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        }
+      }
+    ],
+    "timestamp": "2022-08-18T23:45:44.957000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1009971395117207562",
+    "channel_id": "1009971380739117176",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "For maximum control <@300712435478953984> recommend these combat settings, they allow you the maximum choice while being the most convenient.",
+    "mentions": [
+      {
+        "id": "300712435478953984",
+        "username": "sata_cable",
+        "avatar": "e78992b771641870a0e1e5243fcb70f6",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Sata",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1009971617817968660",
+        "filename": "unknown.png",
+        "size": 201752,
+        "url": "https://cdn.discordapp.com/attachments/1009971380739117176/1009971617817968660/unknown.png?ex=68038d1e&is=68023b9e&hm=ef2ed960f3fa1f10494d88a040b1753cf0d3a311c6e324d5b674782c343189ac&",
+        "proxy_url": "https://media.discordapp.net/attachments/1009971380739117176/1009971617817968660/unknown.png?ex=68038d1e&is=68023b9e&hm=ef2ed960f3fa1f10494d88a040b1753cf0d3a311c6e324d5b674782c343189ac&",
+        "width": 463,
+        "height": 232,
+        "content_type": "image/png"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2022-08-18T23:46:38.216000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1009971618501623858",
+    "channel_id": "1009971380739117176",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  }
+]

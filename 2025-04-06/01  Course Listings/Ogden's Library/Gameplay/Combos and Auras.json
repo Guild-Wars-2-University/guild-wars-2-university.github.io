@@ -1,0 +1,80 @@
+[
+  {
+    "type": 0,
+    "content": "**__Combos__**\nIn order to really master the combat system in Gw2 you need to know how to properly use combos. Combos are when you use two skills together to create additional effects to your attacks. There are two types of combo skills: combo fields and combo finishers. \n\nCombo fields are always AoE skills. There are 9 different types of combo fields: Dark, Ethereal, Fire, Ice, Light, Lightning, Poison, Smoke, and Water. \nCombo finishers are always ranged or movement skills. There are 4 different types of combo finishers: Blast, Leap, Projectile, and Whirl. \n\nWhenever you use a combo finisher either from inside or passing through a combo field, the additional effect will be created. Different combinations of these fields and finishers will result in different effects. Engineer <:P4_engineer:774783807898910740> and Ranger <:P5_ranger:774784580757749770> use combos the most, so it is recommended you understand them if you're playing one of those classes. If an ally places a combo field you can use your combo finisher inside and still trigger the combo effect (you don't have to be the one to place down the combo field). Here is a table identifying the different effects for each combination:",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1009973057542172734",
+        "filename": "unknown.png",
+        "size": 287860,
+        "url": "https://cdn.discordapp.com/attachments/1009973057391173653/1009973057542172734/unknown.png?ex=68038e75&is=68023cf5&hm=c5031cf3ae9e92aeed8b6eae394c7ee30686e91677f03e096598959e31f5972f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1009973057391173653/1009973057542172734/unknown.png?ex=68038e75&is=68023cf5&hm=c5031cf3ae9e92aeed8b6eae394c7ee30686e91677f03e096598959e31f5972f&",
+        "width": 709,
+        "height": 310,
+        "content_type": "image/png",
+        "content_scan_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2022-08-18T23:52:21.274000+00:00",
+    "edited_timestamp": "2022-08-18T23:53:01.009000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1009973057391173653",
+    "channel_id": "1009973057391173653",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "**__Auras__**\nYou might have noticed that one of the effects created by combo leap finishers is something called auras. Auras are buffs that cannot be removed. Some Elementalist <:P7_elementalist:774783780837261363> skills can apply auras without the use of combos. Auras will always appear as a bubble around your character. Each aura has an effect that happens when you are hit with a 1 second cooldown for each attacker. There are 7 different types of auras: \n\n• Chaos Aura - Give yourself random boons <:B_protection:768642099096191018> <:B_regeneration:768642127264481332> <:B_swiftness:768642182923157538>  and apply random conditions <:C_weakness:768642416374710272> <:C_confusion:768642291938099210> <:C_crippled:768642307121086534> to foes that hit you. \n• Fire Aura - Give yourself might <:B_might:768642085128896513> and apply burning <:C_burning:768642264900698152> to foes that hit you. \n• Frost Aura - Incoming damage is reduced by 10% and apply chill <:C_chilled:768642279287423017> to foes that hit you. \n• Dark Aura - Incoming condition damage is reduced by 20% and apply torment <:C_torment:768642389380038697> to foes that hit you. \n• Light Aura - Incoming condition damage is reduced by 10% and give yourself resolution <:B_resolution:841773948156641360> when hit. \n• Magnetic Aura - Reflect all projectiles (no cooldown). \n• Shocking Aura - Stun <:D2_stun:768661823989743705> foes that hit you (2 second cooldown).",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-08-18T23:52:39.098000+00:00",
+    "edited_timestamp": "2022-08-18T23:53:12.167000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1009973132150439996",
+    "channel_id": "1009973057391173653",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

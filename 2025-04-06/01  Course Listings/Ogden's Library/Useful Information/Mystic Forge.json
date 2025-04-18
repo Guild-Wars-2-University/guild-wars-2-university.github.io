@@ -1,0 +1,79 @@
+[
+  {
+    "type": 0,
+    "content": "The mystic forge is is used for all sorts of things: changing the stats on gear, upgrading materials to higher tiers, farming for legendary precursors, crafting legendary weapons... etc. There are all sorts of different recipes in the mystic forge (many of which do not have guaranteed yield results) but here is a video describing some of the most used recipes. https://www.youtube.com/watch?v=DVcbs7Hx8W8\nAnd a list so you don't need to search the video for a recipe: https://wiki.guildwars2.com/wiki/Mystic_Forge#Materials",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=DVcbs7Hx8W8",
+        "title": "Guild Wars 2  - Mystic Forge - Need to know recipes!",
+        "description": "Just some useful Mystic Forge Recipes (and a weird one) to help you get the most out of your available crafting materials! Hope you find this helpful!\n\nAscended Ring Slot Recipe:\nhttps://www.youtube.com/watch?v=GCE2hXEuXOg&t=1s\n\n\nTwitter (Stream Updates): https://twitter.com/Common_Tate\nDiscord: https://discord.gg/WR9b2zj\nTwitch: https://www.twi...",
+        "color": 16711680,
+        "author": {
+          "name": "CommonTate Guides",
+          "url": "https://www.youtube.com/channel/UCExNSeFVaZara27yOU1_u2Q"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/DVcbs7Hx8W8/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ILA-uFCOQuAT4W4Eth0Ps_0JVEeXfsEq85T6jLBR1OI/https/i.ytimg.com/vi/DVcbs7Hx8W8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/DVcbs7Hx8W8",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "content_scan_version": 1
+      },
+      {
+        "type": "article",
+        "url": "https://wiki.guildwars2.com/wiki/Mystic_Forge",
+        "title": "Mystic Forge",
+        "description": "The Mystic Forge is a crafting station with access points in various locations. Inside is the realm of the djinn Zommoros who hails from Elona. His attendant, Miyani, found next to the Mystic Forge in Lion's Arch, provides information about Zommoros and sells recipes and items used in the forge. It has an important function in the game economy a...",
+        "thumbnail": {
+          "url": "https://wiki.guildwars2.com/images/thumb/0/03/Mystic_Forge.jpg/1200px-Mystic_Forge.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ClnV7H7J5IFOM6xL7ywfPmbdnS6kMMtuRBXo0lz5lpk/https/wiki.guildwars2.com/images/thumb/0/03/Mystic_Forge.jpg/1200px-Mystic_Forge.jpg",
+          "width": 1200,
+          "height": 716,
+          "flags": 0
+        },
+        "content_scan_version": 1
+      }
+    ],
+    "timestamp": "2022-08-18T23:49:19.525000+00:00",
+    "edited_timestamp": null,
+    "flags": 1024,
+    "components": [],
+    "id": "1009972295080615977",
+    "channel_id": "1009972295080615977",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "type": 0,
+    "content": "There's a ton of items available on the gemstore, but not all of them really give you a good quality-of-life or functional boost to your account. When you're spending real money or a lot of gold on these items, it's important to know which ones will give you the best value. Keep in mind that you can buy all of the most impactful items with in-game gold for less than the cost of a legendary weapon. If you don't want to spend real money, you don't have to. This video goes through all of the best items (and the worst too), giving the pros and cons of most major items in the gemstore:\nhttps://youtu.be/rIrtkPwdbFo",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=rIrtkPwdbFo",
+        "title": "The BEST GEMSTORE ITEMS in Guild Wars 2",
+        "description": "What’s worth buying in the gem store on Guild Wars 2? Some items in the gem store are game changers while others give you absolutely no value for your gems. This video will show you which is which and not only the best quality-of-life upgrades, but also the best items that give tangible, functional benefits in Guild Wars 2 every time you play. W...",
+        "color": 16711680,
+        "author": {
+          "name": "Abree",
+          "url": "https://www.youtube.com/channel/UCaG-VRo-HKu1aydiMMDA6Ww"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/rIrtkPwdbFo/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/rsIoH4S2qERtVoBmQI4RSSA8wPjlw8uGJgEIKtkbFh8/https/i.ytimg.com/vi/rIrtkPwdbFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/rIrtkPwdbFo",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "content_scan_version": 1
+      }
+    ],
+    "timestamp": "2022-08-22T15:28:34.775000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1011295829727920188",
+    "channel_id": "1011295829727920188",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "For those wanting to by gemstore items with gold or wanting to sell gems for gold to use on other things, this video may be helpful for getting better prices.\n\nhttps://youtu.be/XxMLW4J_0E0",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=XxMLW4J_0E0",
+        "title": "SPEND LESS and GET MORE with Guild Wars 2's Gem Exchange",
+        "description": "As “requested” by Reddit: a guide to the gem exchange in Guild Wars 2. As funny as this video concept seemed to me at first, knowing how to buy gems cheaper can actually be extremely useful, especially for playing that can’t or won’t spend real money on the game. There’s plenty of players that rely on the gold to gem exchange to unlock living wo...",
+        "color": 16711680,
+        "author": {
+          "name": "Abree",
+          "url": "https://www.youtube.com/channel/UCaG-VRo-HKu1aydiMMDA6Ww"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/XxMLW4J_0E0/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/H3o-FKeywMjldt-CwD0B17qc53uT8f2H81fZf_ynEgs/https/i.ytimg.com/vi/XxMLW4J_0E0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/XxMLW4J_0E0",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        }
+      }
+    ],
+    "timestamp": "2023-04-01T14:53:05.028000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1091737003084755027",
+    "channel_id": "1011295829727920188",
+    "author": {
+      "id": "140254362332168192",
+      "username": "abree107",
+      "avatar": "dbbc3a8c2fb505816882448713359b8a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Abree",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

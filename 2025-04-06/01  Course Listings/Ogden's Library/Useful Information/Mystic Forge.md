@@ -1,0 +1,2 @@
+The mystic forge is is used for all sorts of things: changing the stats on gear, upgrading materials to higher tiers, farming for legendary precursors, crafting legendary weapons... etc. There are all sorts of different recipes in the mystic forge (many of which do not have guaranteed yield results) but here is a video describing some of the most used recipes. https://www.youtube.com/watch?v=DVcbs7Hx8W8
+And a list so you don't need to search the video for a recipe: https://wiki.guildwars2.com/wiki/Mystic_Forge#Materials

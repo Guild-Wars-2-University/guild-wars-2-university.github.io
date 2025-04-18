@@ -1,0 +1,86 @@
+[
+  {
+    "type": 0,
+    "content": "When you start leveling a character, you might be wondering what traits to train first, what utilities to use. Here are a few suggestions on what to start with, for each class. (Feel free to ask for further clarification in <#1009164086182944939>)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-08-22T15:27:20.658000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1011295518858690650",
+    "channel_id": "1011295518858690650",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<:P1_guardian:774784412754771968>  Guardian - Zeal trait - Litany of wrath heal + Sword of justice for damage/Hammer of wisdom for CC or Shield of the avenger for projectile block, Advance! for swiftness uptime\n<:P3_warrior:774784889261129739>  Warrior - Discipline trait - shout utilities\n<:P2_revenant:774784673137950750>  Revenant - Devastation trait - Shiro legend then Dwarf\n<:P7_elementalist:774783780837261363>  Elementalist - Fire or Arcane trait - Signet of restoration heal + Glyph of storm/lesser elementals and arcane shield\n<:P8_mesmer:774784498860687400>  Mesmer - Illusions trait- Signet of Ether heal + Mantra of pain or Mirror Images or Signet of Illusions and Phantasmal Defender/Disenchanter (for phantasm synergy and spike damage)\n<:P9_necromancer:774784548739088385>  Necromancer -  Spite trait for max dps or Death magic line for more defense- Minion utilities with death magic, or well of suffering/darkness with spite\n<:P5_ranger:774784580757749770>  Ranger - Beastmaster trait - Command utility skills (Protect me/Sic Em) - frost trap\n<:P4_engineer:774783807898910740>  Engineer - Explosives trait - Healing turret - bomb/grenade kit + elixir B/U\n<:P6_thief:774784865061175316>  Thief - Trickery trait (for more initiative/steal synergy with boons and CD reduction) OR  Critical Strikes trait (more crit chance/Fury sources and synergy with 'Invigorating Precision' GM trait) - Signet of malice + Assassin signet + Sig of Agility + Sig of shadows",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-08-22T15:27:24.218000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1011295533790412840",
+    "channel_id": "1011295518858690650",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

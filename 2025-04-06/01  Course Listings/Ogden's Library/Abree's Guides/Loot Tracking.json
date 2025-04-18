@@ -1,0 +1,99 @@
+[
+  {
+    "type": 0,
+    "content": "Loot tracking is a great way to figure out how much gold and how many materials you’re accumulating while playing Guild Wars 2. You don’t NEED to track your loot to amass a lot of gold, but it certainly is helpful in figuring out how to prioritize different activities. To help with loot tracking, we have third party websites and tools that do the annoying stuff for you. In this video, we look at 2 great options for loot tracking in Guild Wars 2. GW2Efficiency offers an easy option that’s adequate for superficial tracking and satisfying your curiosities. DRF offers a high-quality option for both loot tracking AND data collection, but will require you to spend a little time up front to set it up. \n\n**For players that really want to get into farming or drop research, I recommend getting DRF. For a lot of players that are new to the game, GW2Efficiency is perfectly adequate.**\n\nhttps://youtu.be/TD0i6ymdo7E",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=TD0i6ymdo7E",
+        "title": "The BEST LOOT TRACKERS For Guild Wars 2",
+        "description": "Loot tracking is a great way to figure out how much gold and how many materials you’re accumulating while playing Guild Wars 2. You don’t NEED to track your loot to amass a lot of gold, but it certainly is helpful in figuring out how to prioritize different activities. To help with loot tracking, we have third party websites and tools that do th...",
+        "color": 16711680,
+        "author": {
+          "name": "Abree",
+          "url": "https://www.youtube.com/channel/UCaG-VRo-HKu1aydiMMDA6Ww"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/TD0i6ymdo7E/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/ZarKIWGe5UqkOzwIP1gH7m9XLhkGQV6rSgHLTBX2gvY/https/i.ytimg.com/vi/TD0i6ymdo7E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/TD0i6ymdo7E",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "content_scan_version": 1
+      }
+    ],
+    "timestamp": "2023-05-28T17:03:06.992000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1112425835232755712",
+    "channel_id": "1112425835232755712",
+    "author": {
+      "id": "140254362332168192",
+      "username": "abree107",
+      "avatar": "dbbc3a8c2fb505816882448713359b8a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Abree",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "942445149617782825",
+          "name": "Pinata_Party"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

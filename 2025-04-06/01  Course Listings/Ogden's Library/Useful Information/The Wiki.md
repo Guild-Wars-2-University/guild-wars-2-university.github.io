@@ -1,0 +1,2 @@
+Guild Wars 2 has an official wiki websites about the game. It is maintained and populated by the community, but it is also recognized by Arena Net. The wiki has extensive articles about literally everything in the game. When in doubt, look it up on the wiki. https://wiki.guildwars2.com/wiki/Quick_access_links
+You can also open the website from the game by typing "/wiki" in chat. This will open up your default web browser on the wiki page.

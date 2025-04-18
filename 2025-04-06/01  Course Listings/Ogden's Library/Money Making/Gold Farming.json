@@ -1,0 +1,178 @@
+[
+  {
+    "type": 0,
+    "content": "A lot of players will find themselves thinking about making gold at some point. Daily-oriented rewards are a good option, but can't always provide the quantity of gold you might want within a certain frame of time. Gold farming is a method that can be repeated, so you can do it as much or as little as you like. Certain map events *will* only reward you once per day, but there are so many options to choose from that you won't need to worry about that. These videos will walk you through different types of farms, how to do them, and how to process your loot to get the most out of it:",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2023-01-08T16:06:07.672000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1061677192381206618",
+    "channel_id": "1061677192381206618",
+    "author": {
+      "id": "140254362332168192",
+      "username": "abree107",
+      "avatar": "dbbc3a8c2fb505816882448713359b8a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Abree",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Open World Farming: https://www.youtube.com/watch?v=OdbqNNs3Ssg\n\nThese farms are closer to what most players would consider \"ordinary gameplay\". In addition to doing events and killing mobs, you'll want to make sure to target specific types of maps that give more overall loot, and then use boosters to maximize their already high output.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=OdbqNNs3Ssg",
+        "title": "The BEST GOLD FARMING MAPS in Guild Wars 2",
+        "description": "Gold Farming is something a lot of Guild Wars 2 players participate in, whether they just like the occasional meta run or they enjoy hardcore grinding. It’s one of the most accessible methods of consistent gold-making in the game. This video showcases some of the best maps for gold farming in Guild Wars 2, what makes them different from one anot...",
+        "color": 16711680,
+        "author": {
+          "name": "Abree",
+          "url": "https://www.youtube.com/channel/UCaG-VRo-HKu1aydiMMDA6Ww"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/OdbqNNs3Ssg/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/S8c1ndhjpO34aCHkeWbhYL8GHnzsTjHozazFR1Vz7yw/https/i.ytimg.com/vi/OdbqNNs3Ssg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/OdbqNNs3Ssg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        }
+      }
+    ],
+    "timestamp": "2023-01-08T16:07:20.010000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1061677495788781629",
+    "channel_id": "1061677192381206618",
+    "author": {
+      "id": "140254362332168192",
+      "username": "abree107",
+      "avatar": "dbbc3a8c2fb505816882448713359b8a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Abree",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "---\n\n\n\nFractal Farming: https://www.youtube.com/watch?v=cs_21vrj9O0\n\nFractal farms are something that can be a very rewarding option, but definitely have their fair share of disadvantages. You'll likely want to be a relatively experienced tier 4 fractal player before you start doing these. They can also be extremely repetitive and often boring, depending on the type of player you are. If you do decide to try fractal farming, I **STRONGLY** recommend finding 4 friends or guildmates to do it with you and then joining voice chat to talk while you do it. Communicating about the farm is an obvious benefit to doing this, but it will also keep you entertained if you're able to have casual conversations with friends while you're farming.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=cs_21vrj9O0",
+        "title": "One of the BEST GOLD FARMS in Guild Wars 2 | Fractal 42 Farming Guide",
+        "description": "Fractal farming is one of the most consistent and profitable types of gold farming in Guild Wars 2. This video covers the advantages and disadvantages of fractal farming when compared to other gold-making options in Guild Wars 2, then goes through all of the information you'll need to do fractal 42 farming effectively. It also includes an in-dep...",
+        "color": 16711680,
+        "author": {
+          "name": "Abree",
+          "url": "https://www.youtube.com/channel/UCaG-VRo-HKu1aydiMMDA6Ww"
+        },
+        "provider": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/cs_21vrj9O0/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/2rCFnGDweVwRL1j5hsM7c7wLsn3QYeGra-MS2-2bAds/https/i.ytimg.com/vi/cs_21vrj9O0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/cs_21vrj9O0",
+          "width": 1280,
+          "height": 720,
+          "flags": 0
+        }
+      }
+    ],
+    "timestamp": "2023-01-08T16:11:00.459000+00:00",
+    "edited_timestamp": "2023-01-08T16:11:38.786000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1061678420418891848",
+    "channel_id": "1061677192381206618",
+    "author": {
+      "id": "140254362332168192",
+      "username": "abree107",
+      "avatar": "dbbc3a8c2fb505816882448713359b8a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Abree",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  }
+]

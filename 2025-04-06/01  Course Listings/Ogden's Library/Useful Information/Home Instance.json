@@ -1,0 +1,127 @@
+[
+  {
+    "type": 0,
+    "content": "Everyone has a home instance. There's one located in each racial home city (Hoelbrak, Rata Sum, Divinity's Reach, The Grove, Black Citidel). By default it's empty, but you can buy home instance nodes upgrades that are then sent to be placed in your home instance. You ***cannot*** decide where the node goes; it already has a pre-determined location. You can only gather from a node **once** per reset.\n\nYou may see people advertising “Full home instances”: These are home instances in which the owner has all of the home instance nodes. Most nodes in a home instance are available to visitors so you want to be friends with these people because they can take you into their home instance and you can gather from their nodes without having to buy the nodes yourself.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-08-22T15:29:21.383000+00:00",
+    "edited_timestamp": "2022-08-22T15:32:23.455000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1011296025216028763",
+    "channel_id": "1011296025216028763",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👍"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Locations matter! \nThe general consensus is that Rata Sum has the best layout for quick and efficient gathering. Most players will hang around Rata Sum [Magicat Court Waypoint] asking for or offering home instances. Gathering in any of the racial cities will also count towards any region-specific Forager/Logger/Miner dailies so on those days, you may find players gathered around the home instance entrance in those cities. \n\nYou can find a complete list of all the upgrades available to a home instance on the wiki: https://wiki.guildwars2.com/wiki/Home_instance\nIs a full home instance worth it? Monetary-wise, no.  But its all about the friends you make along the way. Check out the current profits here: https://fast.farming-community.eu/gathering/home-nodes",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "article",
+        "url": "https://wiki.guildwars2.com/wiki/Home_instance",
+        "title": "Home instance",
+        "description": "A home instance is an instanced area within a character's home city based on the character's race, which evolves as they progress through the world.\nA character's home instance will change based on their progress and actions in their personal story. For example, character actions could determine the presence or absence of non-player characters, ..."
+      }
+    ],
+    "timestamp": "2022-08-22T15:30:48.400000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1011296390191775864",
+    "channel_id": "1011296025216028763",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "**Tipping:** Some home instance owners will request a ‘tip’, usually a small amount of money, for services rendered. This is usually to help the owner cover the cost of the home instance upgrades but is never necessary and you should never feel obliged to tip unless you want to. \n \n**Home instance cats:** You may see cats around the world or in others’ home instances; these are cats from the Hungry Cat Scavenger Hunt! https://wiki.guildwars2.com/wiki/Hungry_cat_scavenger_hunt\n\n**Mote of Friendship:** You’ll see this in some home instances. It is used for progressing the Caladbohg quest, which comes after HoT so spoiler alert! If you have not finished Hot yet. More here: https://wiki.guildwars2.com/wiki/Mote_of_Friendship",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2022-08-22T15:31:26.122000+00:00",
+    "edited_timestamp": null,
+    "flags": 4,
+    "components": [],
+    "id": "1011296548409331722",
+    "channel_id": "1011296025216028763",
+    "author": {
+      "id": "243543671293739008",
+      "username": "istand",
+      "avatar": "73660adad3f695af10c1641c62b48630",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "IStand",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  }
+]
