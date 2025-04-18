@@ -1,0 +1,2 @@
+If you are having trouble logging into your Arena Net account follow the instructions on https://help.guildwars2.com/hc/en-us/articles/201862918-Trouble-Logging-In/ If you need to submit a ticket to customer support, use the serial code you got when you bought the game to verify your identity. If you don't have that, provide them with as much verifiable information about yourself so that they can verify your identity.
+**If you just bought the game save the email they send you with the serial code!**        ***DO NOT LOSE IT!!!***

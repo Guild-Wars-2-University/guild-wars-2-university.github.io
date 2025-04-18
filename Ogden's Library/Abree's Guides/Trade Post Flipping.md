@@ -1,0 +1,3 @@
+For those of you that are not aware of how the Black Lion Trading Post (TP) works in game, it is essentially a stock market. You can list items at prices you would like to sell them at and the trading post will hold onto them until someone purchases it. You can also offer a specific price for an item and the trading post will hold onto your gold until someone is willing to sell at that price. 
+This will make the current selling price of items fluctuate based on supply and demand. This also encourages players try to make money off of the TP with the old buy-low sell-high rule. This is know as trade post flipping. 
+If you would like to know how to do this, <@140254362332168192> has made a guide just for you: https://youtu.be/9-cn9Wa9agQ

@@ -1,0 +1,3 @@
+This is an in depth guide that can help with completing the World of Tyria in a matter of hours that's not a total grind. For those that are wanting to eventually craft their own Generation 1 Legendary weapons, Gifts of Exploration are required in the Gift of Mastery; 1 of 4 elements required to craft the first 16 Legendary weapons. Visit http://www.gw2taco.com/ to see an overall guide with markers overlays and more to help with your completion. For an in-depth guide, visit https://www.youtube.com/watch?v=quKSP6hdqFo for a video on this same guide. 
+
+These guides were last modified in 2019. They do not account for events and "cheats" that can complete those pesky hearts quickly once and for all.
