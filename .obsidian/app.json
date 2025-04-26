@@ -1,5 +1,7 @@
 {
   "showInlineTitle": false,
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "tabSize": 2,
+  "useTab": false
 }
