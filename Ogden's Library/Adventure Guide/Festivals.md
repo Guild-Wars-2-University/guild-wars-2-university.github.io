@@ -9,7 +9,7 @@ List of festivals:
 - Dragon Bash (_Early to Late June_)
 - Festival of the Four Winds (_Late July to early August_)
 - Halloween (_Mid October to early November_)
-- [Festival Guide - Wintersday Festival](Festival%20Guide%20-%20Wintersday%20Festival.md) (_Mid December to early January_)
+- [Festival Guide - Wintersday](Festival%20Guide%20-%20Wintersday.md) (_Mid December to early January_)
 
 > *"A festival is a celebration event of an in-game or real world seasonal holiday, usually introduced as a major feature of a release. Many of the festivals have been observed ever since the first Guild Wars series and include their own thematic map decorations, activities, rewards, and daily achievements. Recent festivals have lasted for about 3 weeks."*
 > 
@@ -19,13 +19,9 @@ List of festivals:
 ---
  
 ### Related
-[Festival Guide - Lunar New Year Festival](Festival%20Guide%20-%20Lunar%20New%20Year%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Dragon Bash](Festival%20Guide%20-%20Dragon%20Bash.md)
-[](Ogden's%20Library/Open-world%20events%20&%20Festivals/#%20Festival%20Guide%20-%20Festival%20of%20the%20Four%20Winds.md)
-[Festival Guide - Halloween Festival](Festival%20Guide%20-%20Halloween%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Wintersday Festival](Festival%20Guide%20-%20Wintersday%20Festival.md)
-
-### Resources
-[GW2 Wiki Festival](<https://wiki.guildwars2.com/wiki/Festival>) *- GW2 Wiki*
+[Festival Guide - Lunar New Year Festival](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Dragon Bash](__missing_link__)
+[Festival Guide - Festival of the Four Winds](__missing_link__)
+[Festival Guide - Halloween](__missing_link__)
+[Festival Guide - Wintersday](__missing_link__)
