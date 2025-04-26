@@ -1,5 +1,5 @@
 #Festival/Wintersday-Festival #Open-world-events 
-# Festival Guide: Wintersday Festival
+# Festival Guide: Wintersday
 Begins usually sometime between **mid December to early January** and lasts for four weeks.
 
  %% To-do: Add own festival description. Wiki quote can be removed after that. %%
@@ -14,15 +14,15 @@ Begins usually sometime between **mid December to early January** and lasts fo
 ---
 
 ### Guides
-[Guide to Farming Karma during Wintersday Event](Guide%20to%20Farming%20Karma%20during%20Wintersday%20Event.md)
+[Guide to Farming Karma during Wintersday Event](__missing_link__)
 
 ### Related
-[Festival Guide - Lunar New Year Festival](Festival%20Guide%20-%20Lunar%20New%20Year%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Dragon Bash](Festival%20Guide%20-%20Dragon%20Bash.md)
-[Festival Guide - Festival of the Four Winds](Festival%20Guide%20-%20Festival%20of%20the%20Four%20Winds.md)
-[Festival Guide - Halloween Festival](Festival%20Guide%20-%20Halloween%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
+[Festival Guide - Lunar New Year Festival](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Dragon Bash](__missing_link__)
+[Festival Guide - Festival of the Four Winds](__missing_link__)
+[Festival Guide - Halloween](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
 
 ### Resources
 [Wintersday](<https://wiki.guildwars2.com/wiki/Wintersday>) *- GW2 Wiki*

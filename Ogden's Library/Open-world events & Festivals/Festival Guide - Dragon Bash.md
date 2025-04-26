@@ -12,12 +12,12 @@ Begins usually sometime between **early to Late June** and lasts for four week
 ---
 
 ### Related
-[Festival Guide - Lunar New Year Festival](Festival%20Guide%20-%20Lunar%20New%20Year%20Festival.md)
-[Super Adventure Festival](Festival%20Guide%20-%20Dragon%20Bash.md)
-[Festival Guide - Festival of the Four Winds](Festival%20Guide%20-%20Festival%20of%20the%20Four%20Winds.md)
-[Festival Guide - Halloween Festival](Festival%20Guide%20-%20Halloween%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Wintersday Festival](Festival%20Guide%20-%20Wintersday%20Festival.md)
+[Festival Guide - Lunar New Year Festival](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Festival of the Four Winds](__missing_link__)
+[Festival Guide - Halloween](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Wintersday](__missing_link__)
 
 ### Resources
 [Dragon Bash](<https://wiki.guildwars2.com/wiki/Dragon_Bash>) *- GW2 Wiki*

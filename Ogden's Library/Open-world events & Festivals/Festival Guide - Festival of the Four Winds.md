@@ -14,12 +14,12 @@ Begins usually sometime between **late July to early August** and lasts for fo
 ---
 
 ### Related
-[Festival Guide - Lunar New Year Festival](Festival%20Guide%20-%20Lunar%20New%20Year%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Dragon Bash](Festival%20Guide%20-%20Dragon%20Bash.md)
-[Festival Guide - Halloween Festival](Festival%20Guide%20-%20Halloween%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Wintersday Festival](Festival%20Guide%20-%20Wintersday%20Festival.md)
+[Festival Guide - Lunar New Year Festival](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Dragon Bash](__missing_link__)
+[Festival Guide - Halloween](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Wintersday](__missing_link__)
 
 ### Resources
 [Festival of the Four Winds](<https://wiki.guildwars2.com/wiki/Festival_of_the_Four_Winds>) *- GW2 Wiki*

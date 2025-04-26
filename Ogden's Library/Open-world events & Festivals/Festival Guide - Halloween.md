@@ -1,5 +1,5 @@
 #Festival/Halloween-Festival #Open-world-events 
-# Festival Guide: Halloween Festival
+# Festival Guide: Halloween
 Begins usually sometime between **mid October to early November** and lasts for four weeks.
 
  %% To-do: Add own festival description. Wiki quote can be removed after that. %%
@@ -14,12 +14,12 @@ Begins usually sometime between **mid October to early November** and lasts fo
 ---
 
 ### Related
-[Festival Guide - Lunar New Year Festival](Festival%20Guide%20-%20Lunar%20New%20Year%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Dragon Bash](Festival%20Guide%20-%20Dragon%20Bash.md)
-[Festival Guide - Festival of the Four Winds](Festival%20Guide%20-%20Festival%20of%20the%20Four%20Winds.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Wintersday Festival](Festival%20Guide%20-%20Wintersday%20Festival.md)
+[Festival Guide - Lunar New Year Festival](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Dragon Bash](__missing_link__)
+[Festival Guide - Festival of the Four Winds](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Wintersday](__missing_link__)
 
 ### Resources
 [Halloween](<https://wiki.guildwars2.com/wiki/Halloween>) *- GW2 Wiki*

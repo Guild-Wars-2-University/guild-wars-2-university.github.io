@@ -18,12 +18,12 @@ This one is doable at level 2, but due to the gold values involved I’m not *as
 ---
 
 ### Related
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Dragon Bash](Festival%20Guide%20-%20Dragon%20Bash.md)
-[Festival Guide - Lunar New Year Festival](Festival%20Guide%20-%20Lunar%20New%20Year%20Festival.md)
-[Festival Guide - Halloween Festival](Festival%20Guide%20-%20Halloween%20Festival.md)
-[Festival Guide - Super Adventure Box](Festival%20Guide%20-%20Super%20Adventure%20Box.md)
-[Festival Guide - Wintersday Festival](Festival%20Guide%20-%20Wintersday%20Festival.md)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Dragon Bash](__missing_link__)
+[Festival Guide - Festival of the Four Winds](__missing_link__)
+[Festival Guide - Halloween](__missing_link__)
+[Festival Guide - Super Adventure Box](__missing_link__)
+[Festival Guide - Wintersday](__missing_link__)
 
 ### Resources
 [Lunar New Year](<https://wiki.guildwars2.com/wiki/Lunar_New_Year>) *- GW2 Wiki*
