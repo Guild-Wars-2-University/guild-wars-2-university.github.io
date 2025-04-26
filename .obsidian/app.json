@@ -3,5 +3,6 @@
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
   "tabSize": 2,
-  "useTab": false
+  "useTab": false,
+  "alwaysUpdateLinks": true
 }

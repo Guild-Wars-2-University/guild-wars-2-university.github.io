@@ -12,3 +12,4 @@ deno.lock
 .obsidian/appearance.json
 .obsidian/workspace.json
 .obsidian/snippets
+.obsidian/plugins/discord-timestamps/data.json
