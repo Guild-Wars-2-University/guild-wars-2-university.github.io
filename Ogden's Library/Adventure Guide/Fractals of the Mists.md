@@ -8,12 +8,15 @@ _ _
 > *Like other dungeons, Fractals of the Mists are designed and balanced for parties of five players, but allow smaller groups of fewer players. Characters are adjusted to level 80 within the fractal. Fractals are one of the primary sources of ascended equipment and provide materials for crafting infused equipment and attuned equipment. They are one of the core pillars of Guild Wars 2's endgame."*
 >
 > -# [Fractals of the Mists - GW2 Wiki](<https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists>)
+
+_ _
+_ _
+
 ---
 ---
 
 _ _
-# Agony
-
----
-
-_ _
+### Resources
+* [Introduction to Fractals](<https://youtu.be/PG7qhKhc7nc>) - Guild Wars 2 University 2022
+* [New Player Guide, Introduction to fractals](<https://discretize.eu/guides/new-player-guide/>) - Discretize
+* [Intro to Fractals: Getting Ascended gear & Every T1 Fractal Explained](https://youtu.be/rAdgTpLf7mc) - Mukluk 2020

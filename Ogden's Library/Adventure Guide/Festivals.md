@@ -1,4 +1,4 @@
-#Adventure-Guides #Adventure-Guide/Open-world-events #Festivals
+#Adventure-Guides #Adventure-Guide/Open-world-events #Open-world-events #Festivals
 
 _ _
 # Festivals
@@ -22,11 +22,3 @@ _ _
 
 ---
 ---
- 
-### Related
-[Festival Guide - Lunar New Year Festival](__missing_link__)
-[Festival Guide - Super Adventure Box](__missing_link__)
-[Festival Guide - Dragon Bash](__missing_link__)
-[Festival Guide - Festival of the Four Winds](__missing_link__)
-[Festival Guide - Halloween](__missing_link__)
-[Festival Guide - Wintersday](__missing_link__)
