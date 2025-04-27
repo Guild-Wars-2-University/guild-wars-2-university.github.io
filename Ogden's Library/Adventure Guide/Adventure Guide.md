@@ -1,11 +1,5 @@
 #Adventure-Guides
-
-_ _ 
-# Adventure Guide
-
 %%  %%
-_ _
-_ _
 
 ---
 ---
