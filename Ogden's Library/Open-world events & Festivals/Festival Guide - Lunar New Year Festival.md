@@ -1,4 +1,4 @@
-#Festival/Lunar-New-Year-Festival #Open-world-events 
+#Festivals #Festival/Lunar-New-Year-Festival
 # Festival Guide: Lunar New Year Festival
 Begins usually sometime between **late January to early February** and lasts for four weeks.
 

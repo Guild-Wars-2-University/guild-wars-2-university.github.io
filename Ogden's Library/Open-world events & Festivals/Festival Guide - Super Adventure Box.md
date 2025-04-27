@@ -1,4 +1,4 @@
-#Festival/Super-Adventure-Festival #Open-world-events 
+#Festivals #Festival/Super-Adventure-Festival
 # Festival Guide: Super Adventure Box
 Begins usually sometime between __late March and mid April__ and lasts for four weeks.
 

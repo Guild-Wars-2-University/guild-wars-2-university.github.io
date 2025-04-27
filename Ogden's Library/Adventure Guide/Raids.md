@@ -1,4 +1,4 @@
-#Raids #Adventure-Guide #Instanced-Group-Content
+#Adventure-Guides #Adventure-Guide/Instanced-Group-Content #Raids #Instanced-Group-Content
 
 _ _
 # Raids
@@ -8,6 +8,9 @@ _ _
 > _Each encounter typically involves multiple phases with several unique mechanics to test squad coordination, damage output, positioning, and player builds. Encounters may also include an enrage timer where the encounter fails or incoming damage greatly increases when time expires."_
 >
 > -# [Raid - GW2 Wiki](<https://wiki.guildwars2.com/wiki/Raid>)
+
+_ _
+_ _
 
 ---
 ---

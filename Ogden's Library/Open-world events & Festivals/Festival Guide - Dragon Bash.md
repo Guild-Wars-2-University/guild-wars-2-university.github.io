@@ -1,4 +1,4 @@
-#Festival/Dragon-Bash-Festival #Open-world-events 
+#Festivals #Festival/Dragon-Bash-Festival
 # Festival Guide: Dragon Bash
 Begins usually sometime between **early to Late June** and lasts for four weeks.
 

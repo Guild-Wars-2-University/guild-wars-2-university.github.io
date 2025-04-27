@@ -1,4 +1,4 @@
-#Festival/Halloween-Festival #Open-world-events 
+#Festivals #Festival/Halloween-Festival
 # Festival Guide: Halloween
 Begins usually sometime between **mid October to early November** and lasts for four weeks.
 

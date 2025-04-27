@@ -1,4 +1,6 @@
-#Festival #Adventure-Guide #Open-world-events
+#Adventure-Guides #Adventure-Guide/Open-world-events #Festivals
+
+_ _
 # Festivals
 
  %% To-do: Add description outlining what festivals are about as a whole, and roughly what the reasons are to do them %%
@@ -14,6 +16,9 @@ List of festivals:
 > *"A festival is a celebration event of an in-game or real world seasonal holiday, usually introduced as a major feature of a release. Many of the festivals have been observed ever since the first Guild Wars series and include their own thematic map decorations, activities, rewards, and daily achievements. Recent festivals have lasted for about 3 weeks."*
 > 
 > -# [Festival - GW2 Wiki](<https://wiki.guildwars2.com/wiki/Festival>)
+
+_ _
+_ _
 
 ---
 ---

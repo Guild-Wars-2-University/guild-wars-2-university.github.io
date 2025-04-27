@@ -1,4 +1,4 @@
-#Festival/Festival-of-the-Four-Winds #Open-world-events 
+#Festivals #Festival/Festival-of-the-Four-Winds
 # Festival Guide: Festival of the Four Winds
 Begins usually sometime between **late July to early August** and lasts for four weeks.
 

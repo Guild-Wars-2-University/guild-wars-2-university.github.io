@@ -1,4 +1,5 @@
-#Festival/Wintersday-Festival #Open-world-events 
+#Festivals #Festival/Wintersday-Festival
+
 # Festival Guide: Wintersday
 Begins usually sometime between **mid December to early January** and lasts for four weeks.
 
