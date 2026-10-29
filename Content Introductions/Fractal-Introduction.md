@@ -1,3 +1,7 @@
+---
+title: Intro to Fractals of the Mists
+---
+
 #Adventure-Guide/Content-Introductions #Fractals-of-the-Mists 
 
 # Intro to Fractals of the Mists 

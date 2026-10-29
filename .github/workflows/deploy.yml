@@ -43,8 +43,16 @@ jobs:
         run: |
           rm -rf quartz/content
           mkdir -p quartz/content
-          rsync -a --exclude='.git' --exclude='.obsidian' --exclude='.github' content-source/ quartz/content/
-          rm -rf quartz/content/.obsidian quartz/content/.github 2>/dev/null || true
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.obsidian' \
+            --exclude='.github' \
+            --exclude='.gitignore' \
+            --exclude='.gitattributes' \
+            --exclude='.DS_Store' \
+            --exclude='discordemojipicker' \
+            --exclude='sources' \
+            content-source/ quartz/content/
 
       - name: Install Dependencies
         working-directory: ./quartz
@@ -53,11 +61,12 @@ jobs:
       - name: Configure Quartz
         working-directory: ./quartz
         run: |
-          sed -i "s|baseUrl: .*|baseUrl: \"guild-wars-2-university.github.io/gw2-university-resources\",|" quartz.config.ts
+          sed -i 's|pageTitle: .*|pageTitle: "Guild Wars University Library",|' quartz.config.ts
+          sed -i 's|baseUrl: .*|baseUrl: "guild-wars-2-university.github.io/gw2-university-resources",|' quartz.config.ts
 
       - name: Build Quartz
         working-directory: ./quartz
-        run: npx quartz build --baseDir /gw2-university-resources/
+        run: npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

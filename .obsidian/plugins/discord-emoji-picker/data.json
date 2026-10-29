@@ -1,0 +1,17 @@
+{
+  "emojiFolder": ".github/public/emotes",
+  "stickerFolder": ".github/public/stickers",
+  "samplesSeeded": true,
+  "recentlyUsed": [],
+  "emojiSize": 42,
+  "stickerSize": 96,
+  "pickerResizable": false,
+  "insertStyle": "shortcode",
+  "onboardingSeen": true,
+  "importOnboardingSeen": true,
+  "showOnboardingHint": true,
+  "renderShortcodesInEditor": true,
+  "pickerTheme": "default",
+  "discordToken": "",
+  "discordTokenType": "user"
+}

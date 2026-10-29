@@ -1,6 +1,8 @@
 [
-  "obsidian-git",
   "discord-timestamps",
-  "inline-spoilers",
-  "tag-wrangler"
+  "discord-export",
+  "md-discord-syntax",
+  "discord-emoji-picker",
+  "obsidian-git",
+  "folder-notes"
 ]

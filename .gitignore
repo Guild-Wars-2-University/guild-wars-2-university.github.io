@@ -1,15 +1,24 @@
 .DS_Store
 .vs/
 
-docs/
-dist/
-deno.lock
+.github/labs
 
 *.draft*
 *.notes*
 
-.obsidian/themes
+# Obsidian
 .obsidian/appearance.json
 .obsidian/workspace.json
-.obsidian/snippets
-.obsidian/plugins/discord-timestamps/data.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/cache/
+.obsidian/themes/
+.obsidian/snippets/
+
+# Obsidian plugin binaries and plugin settings
+# Exclude plugin folder contents (not the folders) so specific settings can be shared.
+.obsidian/plugins/*/**
+!.obsidian/plugins/discord-emoji-picker/data.json
+!.obsidian/plugins/folder-notes/data.json
+!.obsidian/plugins/obsidian-git/data.json
